@@ -1,0 +1,15 @@
+C:\Users\vyn8\Documents\Visual Studio 2015\Projects\Sake_Important\AngularAppWithEFCodeFirst\ApplicationServices\bin\Debug\ApplicationServices.dll
+C:\Users\vyn8\Documents\Visual Studio 2015\Projects\Sake_Important\AngularAppWithEFCodeFirst\ApplicationServices\bin\Debug\ApplicationServices.pdb
+C:\Users\vyn8\Documents\Visual Studio 2015\Projects\Sake_Important\AngularAppWithEFCodeFirst\ApplicationServices\bin\Debug\AutoMapper.dll
+C:\Users\vyn8\Documents\Visual Studio 2015\Projects\Sake_Important\AngularAppWithEFCodeFirst\ApplicationServices\bin\Debug\DataAccess.dll
+C:\Users\vyn8\Documents\Visual Studio 2015\Projects\Sake_Important\AngularAppWithEFCodeFirst\ApplicationServices\bin\Debug\EntityFramework.dll
+C:\Users\vyn8\Documents\Visual Studio 2015\Projects\Sake_Important\AngularAppWithEFCodeFirst\ApplicationServices\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\vyn8\Documents\Visual Studio 2015\Projects\Sake_Important\AngularAppWithEFCodeFirst\ApplicationServices\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\vyn8\Documents\Visual Studio 2015\Projects\Sake_Important\AngularAppWithEFCodeFirst\ApplicationServices\bin\Debug\DataAccess.pdb
+C:\Users\vyn8\Documents\Visual Studio 2015\Projects\Sake_Important\AngularAppWithEFCodeFirst\ApplicationServices\bin\Debug\AutoMapper.xml
+C:\Users\vyn8\Documents\Visual Studio 2015\Projects\Sake_Important\AngularAppWithEFCodeFirst\ApplicationServices\bin\Debug\EntityFramework.xml
+C:\Users\vyn8\Documents\Visual Studio 2015\Projects\Sake_Important\AngularAppWithEFCodeFirst\ApplicationServices\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\vyn8\Documents\Visual Studio 2015\Projects\Sake_Important\AngularAppWithEFCodeFirst\ApplicationServices\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\vyn8\Documents\Visual Studio 2015\Projects\Sake_Important\AngularAppWithEFCodeFirst\ApplicationServices\obj\Debug\ApplicationServices.csprojResolveAssemblyReference.cache
+C:\Users\vyn8\Documents\Visual Studio 2015\Projects\Sake_Important\AngularAppWithEFCodeFirst\ApplicationServices\obj\Debug\ApplicationServices.dll
+C:\Users\vyn8\Documents\Visual Studio 2015\Projects\Sake_Important\AngularAppWithEFCodeFirst\ApplicationServices\obj\Debug\ApplicationServices.pdb

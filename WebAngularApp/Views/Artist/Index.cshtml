@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Artists";
+}
+
+<h2>Artists</h2>
+<script src="~/Scripts/angular.min.js"></script>
+<script src="~/Scripts/ngDialog.min.js"></script>
+<link href="~/Content/ngDialog.min.css" rel="stylesheet" />
+<link href="~/Content/ngDialog-theme-default.css" rel="stylesheet" />
+<script src="~/Scripts/Artist/artistModule.js"></script>
+<script src="~/Scripts/Artist/Services/artistDataService.js"></script>
+<script src="~/Scripts/Artist/Controllers/artist.controller.js"></script>
+
+<div ng-app="artist" ng-controller="artistController as $ctrl">
+    <div class="row col-lg-12" style="font-weight:bold;">
+        <span class="col-lg-3">Name</span>
+        <span class="col-lg-3">Date of birth</span>
+        <span class="col-lg-3">Living place</span>
+        <span class="col-lg-3">Contact</span>
+    </div>
+
+    <div class="row col-lg-12" ng-repeat="artist in $ctrl.artists">
+        <span class="col-lg-3" ng-bind="artist.Name"></span>
+        <span class="col-lg-3" ng-bind="artist.DateOfBirth"></span>
+        <span class="col-lg-3" ng-bind="artist.LivingPlace"></span>
+        <span class="col-lg-3" ng-bind="artist.Contact"></span>
+    </div>
+    <input type="button" id="btnCreate" ng-click="$ctrl.createNewDialogOpen()" value="Create" />
+</div>
+
